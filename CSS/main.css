@@ -29,6 +29,7 @@
     text-align: center;
     background-color: #338888;
     padding: 30px;
+    margin: 20px;
 
     /*Style*/
     color: azure;
@@ -41,9 +42,13 @@
     background-color: #338888;
     border-radius: 4px;
     padding: 10px;
-    margin-top: 20px;
+    margin: 20px;
 
     /*Style*/
     font-family: 'Lato', sans-serif;
     color: azure;
+}
+
+.list_main{
+    text-align: center;
 }
