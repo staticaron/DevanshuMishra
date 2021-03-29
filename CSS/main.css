@@ -16,6 +16,11 @@
     color: rgba(0, 0, 0, .8);
 }
 
+.label_main{
+    font-weight: bold;
+    text-decoration: underline;
+}
+
 .intro_main{
     /*Structure*/
     font-family: 'Kiwi Maru', serif;
@@ -37,4 +42,6 @@
     margin-top: 20px;
 
     /*Style*/
+    font-family: 'Lato', sans-serif;
+    color: azure;
 }
