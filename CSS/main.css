@@ -1,4 +1,11 @@
 .NameHeading{
     text-align: center;
+    font-style: italic;
     font-family: 'Lato', sans-serif;
+    font-weight: lighter;
+
+}
+
+.intro_main{
+    font-family: 'Kiwi Maru', serif;
 }
