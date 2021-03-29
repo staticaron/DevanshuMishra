@@ -7,14 +7,14 @@
     font-style: italic;
     font-family: 'Lato', sans-serif;
     font-weight: bolder;
-    font-size: 30px;
+    font-size: 45px;
 
 }
 
 .normal_heading{
     font-family: 'Lato', sans-serif;
     color: rgba(0, 0, 0, .8);
-    font-size: 140%;
+    font-size: 180%;
 }
 
 .label_main{
@@ -29,6 +29,7 @@
     text-align: center;
     background-color: #338888;
     padding: 30px;
+    padding-top: 10px;
     margin: 20px;
 
     /*Style*/
