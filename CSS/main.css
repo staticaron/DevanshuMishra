@@ -1,8 +1,13 @@
+.main_body{
+    background-color: antiquewhite;
+}
+
 .NameHeading{
     text-align: center;
     font-style: italic;
     font-family: 'Lato', sans-serif;
-    font-weight: lighter;
+    font-weight: bolder;
+    font-size: 30px;
 
 }
 
@@ -11,6 +16,7 @@
     font-family: 'Kiwi Maru', serif;
     text-align: center;
     background-color: #338888;
+    padding: 30px;
 
     /*Style*/
     color: azure;
