@@ -7,7 +7,12 @@
 }
 
 .intro_main{
+    /*Structure*/
     font-family: 'Kiwi Maru', serif;
     text-align: center;
     background-color: #338888;
+
+    /*Style*/
+    color: azure;
+    border-radius: 4px;
 }
