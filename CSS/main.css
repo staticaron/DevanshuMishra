@@ -14,7 +14,7 @@
 .normal_heading{
     font-family: 'Lato', sans-serif;
     color: rgba(0, 0, 0, .8);
-    font-size: 180%;
+    font-size: 250%;
 }
 
 .label_main{
@@ -39,6 +39,7 @@
 .games_main{
     /*Structure*/
     text-align: center;
+    align-items: center;
     background-color: #338888;
     border-radius: 4px;
     padding: 10px;
