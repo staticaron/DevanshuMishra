@@ -1,5 +1,5 @@
 .main_body{
-    background-color: antiquewhite;
+    background-color: #7395AE;
 }
 
 .NameHeading{
@@ -35,12 +35,14 @@
     /*Structure*/
     font-family: 'Kiwi Maru', serif;
     text-align: center;
-    background-color: #338888;
+    /*background-color: #338888;*/
+    background-color: #B1A296;
     padding: 30px;
     margin: 20px;
 
     /*Style*/
-    color: azure;
+    /*color: azure;*/
+    color: #505C61;
     border-radius: 4px;
 }
 
@@ -48,14 +50,14 @@
     /*Structure*/
     text-align: center;
     align-items: center;
-    background-color: #338888;
+    /*background-color: #338888;*/
     border-radius: 4px;
     padding: 10px;
     margin: 20px;
 
     /*Style*/
     font-family: 'Lato', sans-serif;
-    color: azure;
+    /*color: azure;*/
 }
 
 .list_main{
