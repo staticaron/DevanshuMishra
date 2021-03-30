@@ -17,6 +17,13 @@
     font-size: 250%;
 }
 
+.subheading_main{
+    font-family: 'Kiwi Maru', sans-serif;
+    color: darkslategrey;
+    font-weight: bolder;
+    text-decoration: underline;
+}
+
 .label_main{
     font-weight: bold;
     text-decoration: underline;
