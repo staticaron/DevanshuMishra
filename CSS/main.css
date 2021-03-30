@@ -12,9 +12,17 @@
 }
 
 .normal_heading{
+    margin-top: -10px;
     font-family: 'Lato', sans-serif;
     color: rgba(0, 0, 0, .8);
     font-size: 250%;
+}
+
+.subheading_main{
+    font-family: 'Kiwi Maru', sans-serif;
+    color: darkslategrey;
+    font-weight: bolder;
+    text-decoration: underline;
 }
 
 .label_main{
@@ -63,5 +71,5 @@
 }
 
 .icon{
-    margin: 10px;
+    margin: -10px 10px 10px 10px;
 }
