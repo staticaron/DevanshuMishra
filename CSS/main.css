@@ -1,3 +1,8 @@
+@font-face {
+  font-family: SIMPLIFICA;
+  src: url("Assets/SIMPLIFICA Typeface.ttf");
+}
+
 .main_body{
     background-color: #7395AE;
 }
@@ -17,7 +22,7 @@
 .NameHeading{
     text-align: center;
     font-style: italic;
-    font-family: 'Lato', sans-serif;
+    font-family: 'SIMPLIFICA', sans-serif;
     font-weight: bolder;
     font-size: 45px;
     font-size: 450%;
