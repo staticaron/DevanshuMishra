@@ -18,8 +18,8 @@
     text-align: center;
     font-family: 'Syne Mono', monospace;
     font-weight: bolder;
-    font-size: 45px;
-    margin-top: auto;
+    font-size: 70px;
+    margin-top: 50px;
 }
 
 .menu_btn_main{
@@ -69,16 +69,20 @@
 }
 
 .games_main{
-    /*Structure*/
-    text-align: center;
     align-items: center;
+
+    /*Structure*/
+    font-family: 'Kiwi Maru', serif;
+    text-align: center;
     /*background-color: #338888;*/
-    border-radius: 4px;
+    background-color: #B1A296;
+    padding: 20px;
     margin: 20px;
 
     /*Style*/
-    font-family: 'Lato', sans-serif;
     /*color: azure;*/
+    color: #505C61;
+    border-radius: 4px;
 }
 
 .list_main{
@@ -104,6 +108,19 @@
 
 .tools_main{
     align-items: center;
+
+    /*Structure*/
+    font-family: 'Kiwi Maru', serif;
+    text-align: center;
+    /*background-color: #338888;*/
+    background-color: #B1A296;
+    padding: 20px;
+    margin: 20px;
+
+    /*Style*/
+    /*color: azure;*/
+    color: #505C61;
+    border-radius: 4px;
 }
 
 .icon{
