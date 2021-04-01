@@ -21,12 +21,10 @@
 
 .NameHeading{
     text-align: center;
-    font-style: italic;
-    font-family: 'SIMPLIFICA', sans-serif;
+    font-family: 'Syne Mono', monospace;
     font-weight: bolder;
     font-size: 45px;
-    font-size: 450%;
-    margin-top: 10px;
+    margin-top: auto;
 }
 
 .menu_btn_main{
@@ -41,10 +39,10 @@
 }
 
 .normal_heading{
-    margin-top: -10px;
-    font-family: 'Lato', sans-serif;
+    font-family: 'Syne Mono', monospace;
     color: rgba(0, 0, 0, .8);
-    font-size: 350%;
+    font-size: 50px;
+    margin: auto;
 }
 
 .subheading_main{
@@ -95,6 +93,19 @@
 
 .contact_main{
     align-items: center;
+
+    /*Structure*/
+    font-family: 'Kiwi Maru', serif;
+    text-align: center;
+    /*background-color: #338888;*/
+    background-color: #B1A296;
+    padding: 20px;
+    margin: 20px;
+
+    /*Style*/
+    /*color: azure;*/
+    color: #505C61;
+    border-radius: 4px;
 }
 
 .tools_main{
@@ -102,14 +113,20 @@
 }
 
 .icon{
-    /*margin: 0px 10px 10px 10px;*/
     margin: auto;
     margin-left: 20px;
     margin-right: 20px;
+    margin-top: 0px;
 }
 
 .icon_small{
     margin: auto;
     margin-left: 10px;
     margin-right: 10px;
+    margin-top: 0px;
+}
+
+.icon_holder{
+    align-items: center;
+    margin-top: 10px;
 }
