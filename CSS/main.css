@@ -74,7 +74,6 @@
     align-items: center;
     /*background-color: #338888;*/
     border-radius: 4px;
-    padding: 10px;
     margin: 20px;
 
     /*Style*/
@@ -109,9 +108,10 @@
 
 .icon{
     margin: auto;
-    margin-left: 20px;
-    margin-right: 20px;
+    margin-left: 25px;
+    margin-right: 25px;
     margin-top: 0px;
+    border-radius: 8px;
 }
 
 .icon_small{
@@ -123,5 +123,5 @@
 
 .icon_holder{
     align-items: center;
-    margin-top: 10px;
+    margin-top: 15px;
 }
