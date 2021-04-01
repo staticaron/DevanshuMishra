@@ -34,9 +34,9 @@
     background-color: #505C61;
     border: 0px;
     border-radius: 4px;
-    margin-right: 0px;
+    margin-right: 10px;
     margin-left: auto;
-    margin-top: 0px;
+    margin-top: 10px;
 }
 
 .normal_heading{
@@ -103,4 +103,6 @@
 .icon{
     /*margin: 0px 10px 10px 10px;*/
     margin: auto;
+    margin-left: 20px;
+    margin-right: 20px;
 }
