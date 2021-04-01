@@ -3,11 +3,11 @@
 }
 
 .logo_main{
-    width: 200px;
     height: 200px;
+    width: 500px;
     border-radius: 50%;
     margin: auto;
-    text-align: right;
+    align-items: center;
 }
 
 .logo_img{
@@ -31,6 +31,8 @@
     margin-right: 10px;
     margin-left: auto;
     margin-top: 10px;
+    margin-bottom: -50px;
+    align-items: center;
 }
 
 .normal_heading{
