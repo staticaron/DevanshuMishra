@@ -35,6 +35,13 @@
     align-items: center;
 }
 
+.menu{
+    width: 100px;
+    height: 100px;
+    background-color: #000;
+    display: block;
+}
+
 .normal_heading{
     font-family: 'Syne Mono', monospace;
     color: rgba(0, 0, 0, .8);
