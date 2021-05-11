@@ -39,7 +39,7 @@
     width: 100px;
     height: 100px;
     background-color: #000;
-    display: block;
+    display: none;
 }
 
 .normal_heading{

@@ -1,5 +1,9 @@
 let menuObj = document.getElementById("Menu");
 
+function Loaded() {
+    alert("Page Loaded....\nWelcome :)");
+}
+
 function ToggleVisibilityMenu() {
     if (menuObj.display == "none") {
         OpenMenu();
