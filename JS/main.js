@@ -1,7 +1,7 @@
 let menuObj = document.getElementById("Menu");
 
 function Loaded() {
-    alert("Page Loaded....\nWelcome :)");
+    alert("Welcome. The website sucks ik.");
 }
 
 function ToggleVisibilityMenu() {
