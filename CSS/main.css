@@ -22,19 +22,6 @@
     margin-top: 50px;
 }
 
-.menu_btn_main{
-    width: 50px;
-    height: 50px;
-    background-color: #505C61;
-    border: 0px;
-    border-radius: 4px;
-    margin-right: 10px;
-    margin-left: auto;
-    margin-top: 10px;
-    margin-bottom: -50px;
-    align-items: center;
-}
-
 .menu{
     width: 100px;
     height: 100px;
@@ -59,7 +46,7 @@
 .label_main{
     font-weight: bold;
     text-decoration: underline;
-    font-size: 110%;
+    font-size: 150%;
 }
 
 .intro_main{
