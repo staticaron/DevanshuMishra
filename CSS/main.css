@@ -6,8 +6,9 @@
     height: 200px;
     width: 100%;
     border-radius: 50%;
-    margin: auto;
-    align-items: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .logo_img{
